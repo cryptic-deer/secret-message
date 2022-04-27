@@ -3,6 +3,7 @@
 ## Description
 
 - Send a little "secret" message to your friends
+- Write a message -> Send a copy of the created link to your friends
 - Styling: materialize
 - Deployed on Vercel
 
